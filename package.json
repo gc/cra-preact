@@ -27,7 +27,7 @@
 	},
 	"homepage": "https://github.com/shilangyu/cra-preact#readme",
 	"peerDependencies": {
-		"react-scripts": "^3.4.0"
+		"react-scripts": "4.0.0-next.98"
 	},
 	"dependencies": {
 		"preact": "^10.3.2",
